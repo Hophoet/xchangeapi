@@ -1,7 +1,10 @@
 asgiref==3.3.1
+asn1crypto==1.4.0
+bit==0.7.2
 certifi==2020.12.5
 cffi==1.14.5
 chardet==4.0.0
+coincurve==15.0.0
 coverage==5.5
 cryptography==3.4.7
 defusedxml==0.7.1
